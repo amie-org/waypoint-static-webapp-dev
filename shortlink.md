@@ -1,0 +1,1 @@
+http://waypoint-static-webapp-dev.amie-wei.aws.sbx.hashicorpdemo.com
